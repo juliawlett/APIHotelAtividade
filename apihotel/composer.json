@@ -1,0 +1,15 @@
+{
+    "name": "julia/api",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julia"
+        }
+    ],
+    "require": {}
+}
